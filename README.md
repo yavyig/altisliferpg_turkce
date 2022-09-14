@@ -2,6 +2,7 @@
 # altisliferpg_turkce
 
 # KURULUM REHBERI_INGILIZCE
+# Not: bu dosyalarin hepsini arma3 klasorune surukleyiniz.
 #https://www.youtube.com/watch?v=LlqOcIT2bXo
 #
 # GEREKLI PROGRAMLARIN INDIRME LINKI
