@@ -1,4 +1,5 @@
 #Credit: https://github.com/AsYetUntitled/Framework
+
 # altisliferpg_turkce
 
 # KURULUM REHBERI_INGILIZCE
@@ -12,7 +13,7 @@
 # Script_Ozellikleri
 #Guvenli bolgeler, 
 #Kulaklik (Ear-plug), 
-#Ziplama, 
+#Oyun-ici ziplama, 
 #Oyun ici turkce isimler, 
 #Polis, Doktor, ve Sivil Rolleri, 
 #Banka sistemi, 
