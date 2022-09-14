@@ -12,6 +12,7 @@
 #
 # Script_Ozellikleri
 #Guvenli bolgeler, 
+
 #Kulaklik (Ear-plug), 
 #Oyun-ici ziplama, 
 #Oyun ici turkce isimler, 
