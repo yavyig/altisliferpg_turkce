@@ -1,0 +1,20 @@
+=====================================================================
+== C:\Users\Administrator\Desktop\Arma 3 Server\arma3server_x64.exe
+== "C:\Users\Administrator\Desktop\Arma 3 Server\arma3server_x64.exe"  -port=2302 "-config=C:\Users\Administrator\Desktop\Arma 3 Server\TADST\default\TADST_config.cfg" "-cfg=C:\Users\Administrator\Desktop\Arma 3 Server\TADST\default\TADST_basic.cfg" "-profiles=C:\Users\Administrator\Desktop\Arma 3 Server\TADST\default" -name=default -filePatching "-mod=@extDB3;@life_server" -autoInit
+
+Original output filename: Arma3Retail_Server_x64
+Exe timestamp: 2022/08/11 11:58:45
+Current time:  2022/09/13 07:23:12
+
+Type: Public
+Build: Stable
+Version: 2.10.149799
+
+Allocator: C:\Users\Administrator\Desktop\Arma 3 Server\Dll\tbb4malloc_bi_x64.dll [2017.0.0.0] [2017.0.0.0]
+PhysMem: 6.0 GiB, VirtMem : 131072 GiB, AvailPhys : 4.6 GiB, AvailVirt : 131068 GiB, AvailPage : 6.4 GiB, PageSize : 4.0 KiB/2.0 MiB/HasLockMemory, CPUCount : 4
+=====================================================================
+
+ 7:23:12 SteamAPI initialization failed. Steam features won't be accessible!
+ 7:23:14 Initializing stats manager.
+ 7:23:14 Stats config disabled.
+ 7:23:14 sessionID: d954288ff5ecbb6c3defc12350be1f76d74f0b0c
