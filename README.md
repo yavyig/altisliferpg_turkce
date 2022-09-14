@@ -5,7 +5,7 @@
 # KURULUM REHBERI_INGILIZCE
 - Not: bu dosyalarin hepsini arma3 klasorune surukleyiniz.
 
-#https://www.youtube.com/watch?v=LlqOcIT2bXo
+- https://www.youtube.com/watch?v=LlqOcIT2bXo
 #
 # GEREKLI PROGRAMLARIN INDIRME LINKI
 - https://www.heidisql.com/download.php
@@ -32,6 +32,7 @@
 - Kalici aranma sistemi, 
 
 - ve cok daha fazlasi 
+
 
 # Iletisim:
 - Discord: powsta#5730
