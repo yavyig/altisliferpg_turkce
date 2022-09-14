@@ -1,9 +1,9 @@
 #Credit: https://github.com/AsYetUntitled/Framework
-
+#
 # altisliferpg_turkce
-
+#
 # KURULUM REHBERI_INGILIZCE
-- Not: bu dosyalarin hepsini arma3 klasorune surukleyiniz.
+- Not: butun bu dosyalarin hepsini arma3 klasorune surukleyiniz.
 
 - https://www.youtube.com/watch?v=LlqOcIT2bXo
 #
@@ -33,6 +33,6 @@
 
 - ve cok daha fazlasi 
 
-
+#
 # Iletisim:
 - Discord: powsta#5730
