@@ -1,7 +1,7 @@
 #Credit: https://github.com/AsYetUntitled/Framework
 #
 # altisliferpg_turkce
-#
+
 # KURULUM REHBERI_INGILIZCE
 - Not: butun bu dosyalarin hepsini arma3 klasorune surukleyiniz.
 
