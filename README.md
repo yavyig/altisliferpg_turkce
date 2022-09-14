@@ -3,33 +3,35 @@
 # altisliferpg_turkce
 
 # KURULUM REHBERI_INGILIZCE
-#Not: bu dosyalarin hepsini arma3 klasorune surukleyiniz.
+- Not: bu dosyalarin hepsini arma3 klasorune surukleyiniz.
 
 #https://www.youtube.com/watch?v=LlqOcIT2bXo
 #
 # GEREKLI PROGRAMLARIN INDIRME LINKI
-#https://www.heidisql.com/download.php
+- https://www.heidisql.com/download.php
 
-#https://www.apachefriends.org/download.html
+- https://www.apachefriends.org/download.html
 #
 # Script_Ozellikleri
-#Guvenli bolgeler, 
+- Guvenli bolgeler, 
 
-#Kulaklik (Ear-plug), 
+- Kulaklik (Ear-plug), 
 
-#Oyun-ici ziplama, 
+- Oyun-ici ziplama, 
 
-#Oyun ici turkce isimler, 
+- Oyun ici turkce isimler, 
 
-#Polis, Doktor, ve Sivil Rolleri, 
+- Polis, Doktor, ve Sivil Rolleri, 
 
-#Banka sistemi, 
+- Banka sistemi, 
 
-#Sanal itemler(y menu), 
+- Sanal itemler(y menu), 
 
-#Ev garaj sistemi, 
+- Ev garaj sistemi, 
 
-#Kalici aranma sistemi, 
+- Kalici aranma sistemi, 
 
-#ve cok daha fazlasi 
+- ve cok daha fazlasi 
 
+# Iletisim:
+- Discord: powsta#5730
